@@ -1,2 +1,2 @@
 # zuoyubin
-My first static website
+Welcome to my first static website
